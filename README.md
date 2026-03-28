@@ -3,7 +3,7 @@ i am a student pursuing B-tech in computer science<br>I'm looking to collaborate
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/-khushaaaan--16)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_khushaaaan__16)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushaan-lal-342360378)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](khushaanlal16@gmail.com)
 
