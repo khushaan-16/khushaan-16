@@ -1,42 +1,12 @@
-## 👋 About Me
+🎓 I'm a student pursuing **B.Tech in Computer Science**
 
-I'm a student pursuing **B.Tech in Computer Science**.
+🤝 **I'm looking to collaborate on:** Frontend web development projects, beginner-friendly open-source contributions, and creative React-based applications.
 
-### 🤝 I'm looking to collaborate on
+💡 **I'm looking for help with:** Backend integration, improving project structure, writing clean production-level code, and understanding advanced JavaScript concepts.
 
-* Frontend web development projects
-* Beginner-friendly open-source contributions
-* Creative React-based applications
+📚 **I'm currently learning:** JavaScript (ES6+), React.js, React Router, Tailwind CSS, exploring basic backend concepts, and **DSA in C++**.
 
-### 🛠️ I'm looking for help with
-
-* Backend integration
-* Improving project structure
-* Writing clean, production-level code
-* Understanding advanced JavaScript concepts
-
-### 📚 I'm currently learning
-
-* JavaScript (ES6+)
-* React.js
-* React Router
-* Tailwind CSS
-* Basic backend concepts
-* **Data Structures & Algorithms (DSA) in C++**
-
-### 💬 Ask me about
-
-* Frontend development
-* React basics
-* UI design with Tailwind CSS
-* DSA and problem-solving in C++
-* My journey of becoming a better developer
-
-### 🚀 My Goal
-
-To continuously improve my **development skills, problem-solving abilities, and understanding of computer science**, while building useful and creative projects.
-
-
+💬 **Ask me about:** Frontend development, React basics, UI design with Tailwind, DSA in C++, and my journey of becoming a better developer.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_khushaaaan__16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khushaan-lal-342360378) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khushaanlal16@gmail.com) 
