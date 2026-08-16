@@ -1,3 +1,4 @@
+👋 About Me
 🎓 I'm a student pursuing **B.Tech in Computer Science**
 
 🤝 **I'm looking to collaborate on:** Frontend web development projects, beginner-friendly open-source contributions, and creative React-based applications.
