@@ -1,5 +1,41 @@
-# 💫 About Me:
-i am a student pursuing B-tech in computer science<br>I'm looking to collaborate on<br>Frontend web development projects, beginner-friendly open-source contributions, and creative React-based applications.<br>I'm looking for help with<br>Backend integration, improving project structure, writing clean production-level code, and understanding advanced JavaScript concepts.<br>I'm currently learning<br>JavaScript (ES6+), React.js, React Router, Tailwind CSS, and exploring basic backend concepts.<br>Ask me about<br>Frontend development, React basics, UI design with Tailwind, and my journey of becoming a better developer
+## 👋 About Me
+
+I'm a student pursuing **B.Tech in Computer Science**.
+
+### 🤝 I'm looking to collaborate on
+
+* Frontend web development projects
+* Beginner-friendly open-source contributions
+* Creative React-based applications
+
+### 🛠️ I'm looking for help with
+
+* Backend integration
+* Improving project structure
+* Writing clean, production-level code
+* Understanding advanced JavaScript concepts
+
+### 📚 I'm currently learning
+
+* JavaScript (ES6+)
+* React.js
+* React Router
+* Tailwind CSS
+* Basic backend concepts
+* **Data Structures & Algorithms (DSA) in C++**
+
+### 💬 Ask me about
+
+* Frontend development
+* React basics
+* UI design with Tailwind CSS
+* DSA and problem-solving in C++
+* My journey of becoming a better developer
+
+### 🚀 My Goal
+
+To continuously improve my **development skills, problem-solving abilities, and understanding of computer science**, while building useful and creative projects.
+
 
 
 ## 🌐 Socials:
